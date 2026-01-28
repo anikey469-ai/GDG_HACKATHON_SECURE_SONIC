@@ -1,0 +1,8 @@
+
+{
+  "name": "VeriVoice AI - Authenticator",
+  "description": "A sophisticated AI-powered tool to distinguish between human and AI-generated voices using advanced multimodal analysis and URL verification.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
